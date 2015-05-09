@@ -1,0 +1,10 @@
+{
+  "name": "contactlistapp",
+  "version": "0.0.0",
+  "description": "contactlistapp",
+  "main": "server.js",
+  "author": {
+    "name": "bkazic",
+    "email": ""
+  }
+}
